@@ -12,10 +12,10 @@ Function as a Service
 5. git add & commit
 6. 完成まで4,5を繰り返す
 6. 最新の`master`ブランチを適応する
-	* `git checkout master`
-	* `git pull`
-	* `git checkout [your branch]`
-	* `git merge master`
+  * `git checkout master`
+  * `git pull`
+  * `git checkout [your branch]`
+  * `git merge master`
 7. **6.**でコンフリクトしたら修正
 8. Push & Pull Request! :tada:
 
