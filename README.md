@@ -5,6 +5,7 @@ Function as a Service
 ---
 
 ## このリポジトリを使ってGithubに草を生やす手順
+
 1. このリポジトリを持ってくる (`git clone ~`)
 2. Issueを立てる
 3. ブランチを切る (`git checkout -b [issue number]-explain_the_branch`)
