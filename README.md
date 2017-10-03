@@ -4,7 +4,7 @@ Function as a Service
 
 ---
 
-## このリポジトリを使ってGithubに草を生やす手順
+## このリポジトリを使ってGitHubに草を生やす手順
 
 1. このリポジトリを持ってくる (`git clone ~`)
 2. Issueを立てる
@@ -12,7 +12,7 @@ Function as a Service
 4. コードを書く :memo:
 5. git add & commit
 6. 完成まで4,5を繰り返す
-7. 最新の`master`ブランチを適応する
+7. 最新の`master`ブランチを適用する
   - `git checkout master`
   - `git pull`
   - `git checkout [your branch]`
