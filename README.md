@@ -12,11 +12,11 @@ Function as a Service
 4. コードを書く :memo:
 5. git add & commit
 6. 完成まで4,5を繰り返す
-6. 最新の`master`ブランチを適応する
+7. 最新の`master`ブランチを適応する
   * `git checkout master`
   * `git pull`
   * `git checkout [your branch]`
   * `git merge master`
-7. **6.**でコンフリクトしたら修正
-8. Push & Pull Request! :tada:
+8. **6.**でコンフリクトしたら修正
+9. Push & Pull Request! :tada:
 
