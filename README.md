@@ -17,6 +17,6 @@ Function as a Service
   * `git pull`
   * `git checkout [your branch]`
   * `git merge master`
-8. **6.**でコンフリクトしたら修正
+8. **6.** でコンフリクトしたら修正
 9. Push & Pull Request! :tada:
 
